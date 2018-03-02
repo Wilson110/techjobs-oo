@@ -11,9 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import javax.validation.Valid;
 
-/**
- * Created by LaunchCode
- */
+
 @Controller
 @RequestMapping(value = "job")
 public class JobController {
